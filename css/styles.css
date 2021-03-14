@@ -16,20 +16,22 @@ nav {
 	margin-bottom: 40px;
 }
 
-btn {
-	background: black;
+.carousel {
+	align: center;
+	width: 800px;
+	padding: 30px;
 }
 
 .quote {
 	padding: 10px;
 }
 
-.top { 
-    padding: 10px;
+.source {
+	font-style: italic;
 }
 
-.bottom {
-	padding: 10px;
+.row  { 
+    padding: 10px;
 	margin-bottom: -10px;
 }
 
