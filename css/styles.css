@@ -22,8 +22,8 @@ nav {
 }
 
 .carousel {
+	width: 100%;
 	align: center;
-	width: 800px;
 	padding: 30px;
 }
 
