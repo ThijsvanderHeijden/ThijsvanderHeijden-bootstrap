@@ -11,6 +11,11 @@
 	background: hsla(359,72%,39%,1.00);
 	padding: 10px;
 }
+
+.logo {
+	width: 200px;
+}
+
 nav {
 	background: hsla(359,72%,39%,1.00);
 	margin-bottom: 40px;
