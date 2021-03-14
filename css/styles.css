@@ -21,3 +21,8 @@ btn {
 .quote {
 	padding: 10px;
 }
+
+footer {
+	padding: 10px;
+	background: hsla(359,72%,39%,1.00);
+}
