@@ -8,7 +8,7 @@
 }
 
 .title { 
-	background: hsla(359,72%,39%,1.00);
+	background: hsla(359,76%,41%,1.00);
 	padding: 10px;
 }
 
@@ -17,7 +17,7 @@
 }
 
 nav {
-	background: hsla(359,72%,39%,1.00);
+	background: hsla(359,76%,41%,1.00);
 	margin-bottom: 40px;
 }
 
@@ -47,5 +47,5 @@ h4 {
 
 footer {
 	padding: 10px;
-	background: hsla(359,72%,39%,1.00);
+	background: hsla(359,76%,41%,1.00);
 }
