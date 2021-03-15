@@ -5,6 +5,7 @@
 	margin: 0px;
     padding: 0px;
 	border: 0px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 }
 
 .title { 
@@ -19,6 +20,10 @@
 nav {
 	background: hsla(359,76%,41%,1.00);
 	margin-bottom: 40px;
+}
+
+.navlink {
+	color: white;
 }
 
 .button {
