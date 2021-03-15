@@ -21,6 +21,9 @@ nav {
 	margin-bottom: 40px;
 }
 
+.button {
+	float: left;
+}
 .carousel {
 	width: 100%;
 	align: center;
@@ -49,4 +52,24 @@ h4 {
 footer {
 	padding: 10px;
 	background: hsla(359,76%,41%,1.00);
+}
+
+.pagetwo {
+	padding-bottom: 67px;
+}
+
+h1 {
+	padding-top: 30px;
+}
+
+h3 {
+	padding-bottom: 30px;
+}
+
+.even {
+	color: hsla(359,76%,41%,1.00);
+}
+
+.last {
+	padding-bottom: 30px;
 }
